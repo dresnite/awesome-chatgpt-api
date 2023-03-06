@@ -24,3 +24,4 @@ You can add a project to the following list using the following pattern in:
 - [Chatbase](https://www.chatbase.co/) - Build an AI chatbot trained on your data
 - [ClassGPT](https://github.com/benthecoder/ClassGPT) - ChatGPT for lecture slides
 - [Relevance AI](https://relevanceai.com/question-answering) - Use the ChatGPT API to build a multilingual assistant on your data
+- [ChatGPT Sidebar](https://chatgpt-sidebar.com/) - Open a sidebar in any webpage, and ask ChatGPT for anything

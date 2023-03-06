@@ -29,3 +29,4 @@ You can add a project to the following list using the following pattern in:
 - [AI2sql](https://www.ai2sql.io/) - Write SQL queries with no knowledge of SQL
 - [Kili](https://www.kili.so/) - A customer support companion
 - [Writersbrew](https://writersbrew.app) - One AI writing assistant app that works across all browsers, native apps & electron apps
+- [AskAI](https://no-code-ai-model-builder.com/ask-ai) - Build your own AI Q&A with any content. 

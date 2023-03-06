@@ -28,3 +28,4 @@ You can add a project to the following list using the following pattern in:
 - [BetterSay](https://bettersay.ai/) - A tool to help you say things when you are stuck for words.
 - [AI2sql](https://www.ai2sql.io/) - Write SQL queries with no knowledge of SQL
 - [Kili](https://www.kili.so/) - A customer support companion
+- [Writersbrew](https://writersbrew.app) - One AI writing assistant app that works across all browsers, native apps & electron apps

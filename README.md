@@ -1,3 +1,5 @@
+[![name](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 # awesome-chatgpt-api
 
 A curated list of awesome projects using the [ChatGPT API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis).

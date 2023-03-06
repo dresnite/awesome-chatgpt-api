@@ -32,3 +32,4 @@ You can add a project to the list using the following pattern:
 - [AskAI](https://no-code-ai-model-builder.com/ask-ai) - Build your own AI Q&A with any content.
 - [PromptPerfect](https://promptperfect.jina.ai/) - Elevate your prompts to perfection.
 - [Boo](https://boo.ai) - Boo uses AI to help you write faster than ever.
+- [Bertha](https://bertha.ai) - Harness the power of AI to create compelling marketing.

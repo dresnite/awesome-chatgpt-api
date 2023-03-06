@@ -6,7 +6,7 @@ A list of awesome projects using the [ChatGPT API](https://openai.com/blog/intro
 
 ## Contributing
 
-You can add a project to the following list using the following pattern in: 
+You can add a project to the list using the following pattern: 
 > `- [Project Name](Project URL) - Project description`
 
 

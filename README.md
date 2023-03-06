@@ -31,3 +31,4 @@ You can add a project to the following list using the following pattern in:
 - [Writersbrew](https://writersbrew.app) - One AI writing assistant app that works across all browsers, native apps & electron apps.
 - [AskAI](https://no-code-ai-model-builder.com/ask-ai) - Build your own AI Q&A with any content.
 - [PromptPerfect](https://promptperfect.jina.ai/) - Elevate your prompts to perfection.
+- [Boo](https://boo.ai) - Boo uses AI to help you write faster than ever.

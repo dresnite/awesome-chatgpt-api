@@ -25,3 +25,4 @@ You can add a project to the following list using the following pattern in:
 - [ClassGPT](https://github.com/benthecoder/ClassGPT) - ChatGPT for lecture slides
 - [Relevance AI](https://relevanceai.com/question-answering) - Use the ChatGPT API to build a multilingual assistant on your data
 - [ChatGPT Sidebar](https://chatgpt-sidebar.com/) - Open a sidebar in any webpage, and ask ChatGPT for anything
+- [BetterSay](https://bettersay.ai/) - A tool to help you say things when you are stuck for words.

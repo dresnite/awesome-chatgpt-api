@@ -33,3 +33,4 @@ You can add a project to the list using the following pattern:
 - [PromptPerfect](https://promptperfect.jina.ai/) - Elevate your prompts to perfection.
 - [Boo](https://boo.ai) - Boo uses AI to help you write faster than ever.
 - [Bertha](https://bertha.ai) - Harness the power of AI to create compelling marketing.
+- [Replai](https://replai.so/) - Easy-to-use AI replies generator

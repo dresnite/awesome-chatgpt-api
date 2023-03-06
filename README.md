@@ -2,7 +2,7 @@
 
 # awesome-chatgpt-api
 
-A curated list of awesome projects using the [ChatGPT API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis).
+A list of awesome projects using the [ChatGPT API](https://openai.com/blog/introducing-chatgpt-and-whisper-apis).
 
 ## Contributing
 
